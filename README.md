@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/snehil_tw" target="blank"><svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>X</title><path d="M18.901 1.153h3.68l-8.04 9.19L24 22.846h-7.406l-5.8-7.584-6.638 7.584H.474l8.6-9.83L0 1.154h7.594l5.243 6.932ZM17.61 20.644h2.039L6.486 3.24H4.298Z"/></svg></a>
+<a href="https://twitter.com/snehil_tw" target="blank"><img align="center" src="https://www.flaticon.com/free-icon/twitter_5968958?term=twitter&page=1&position=8&origin=tag&related_id=5968958" alt="snehil-sharma-in" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/snehil-sharma-in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="snehil-sharma-in" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/snehil_880" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="snehil_880" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sn3hil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sn3hil" height="30" width="40" /></a>
