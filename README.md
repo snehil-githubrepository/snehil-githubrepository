@@ -23,7 +23,7 @@
 <a href="https://twitter.com/snehil_tw" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="snehil-sharma-tw" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/snehil-sharma-in" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="snehil-sharma-in" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/snehil_880" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="snehil_880" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sn3hil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sn3hil" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sn3hil" target="blank"><img align="center" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" alt="sn3hil" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
