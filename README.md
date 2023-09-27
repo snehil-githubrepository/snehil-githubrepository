@@ -21,6 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/snehil_tw" target="blank"><img align="center" src="https://www.flaticon.com/free-icon/twitter_5968958?term=twitter&page=1&position=8&origin=tag&related_id=5968958" alt="snehil-sharma-in" height="30" width="40" /></a>
+ <a href="https://twitter.com/snehil_tw" target="blank">[![My Skills](https://skillicons.dev/icons?i=twitter)](https://skillicons.dev)</a>
 <a href="https://linkedin.com/in/snehil-sharma-in" target="blank"><img align="center" src="	https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="snehil-sharma-in" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/snehil_880" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="snehil_880" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sn3hil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sn3hil" height="30" width="40" /></a>
