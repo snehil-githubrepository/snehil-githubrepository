@@ -4,19 +4,9 @@
 ![snehil-](https://github.com/snehil-githubrepository/snehil-githubrepository/assets/69778988/19c0effb-adfa-4d89-8b37-93bd7b470865)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=snehil-githubrepository&label=Profile%20views&color=0e75b6&style=flat" alt="snehil-githubrepository" /> </p>
-
-<p align="left"> <a href="https://twitter.com/snehil_tw" target="blank"><img src="https://img.shields.io/twitter/follow/snehil_tw?logo=twitter&style=for-the-badge" alt="snehil_tw" /></a> </p>
-
-- 🔭 I’m currently working on **School Learning Management system**
-
-- 🌱 I’m currently learning **Next JS**
-
-- 💬 Ask me about **Backend, Frontend, MERN, Next JS,**
 
 - 📫 How to reach me **isnehilsharma@gmail.com**
 
-- ⚡ Fun fact **Coffee and bugs are two inevitable things - one wakes you up, and the other keeps you on your toes! ☕🐞**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
