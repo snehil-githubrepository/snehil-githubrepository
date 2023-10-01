@@ -3,11 +3,4 @@
 
 ![snehil-](https://github.com/snehil-githubrepository/snehil-githubrepository/assets/69778988/19c0effb-adfa-4d89-8b37-93bd7b470865)
 
-
-
 - 📫 How to reach me **isnehilsharma@gmail.com**
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snehil-githubrepository&show_icons=true&locale=en&layout=compact" alt="snehil-githubrepository" /></p>
-
